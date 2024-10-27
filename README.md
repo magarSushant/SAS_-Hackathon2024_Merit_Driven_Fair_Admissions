@@ -49,7 +49,12 @@ While data streamlines admissions decisions, combining **data-driven insights** 
 - **Python**: Data visualization, Interactive Analysis
 
 ## How to Use This Repository
-Explore our **slides and presentations** for insights into how bias was mitigated through advanced analytics. Future improvements will integrate **additional data** like **soft skills and project-based assessments** to further enhance fairness.
+Explore our **presentation video, slides, and downloadable presentation** for insights into how bias was mitigated through advanced analytics. Future improvements will integrate **additional data** like **soft skills and project-based assessments** to further enhance fairness.
+
+- [Watch Presentation Video](https://drive.google.com/drive/folders/1FpPPq8cAnIIG8UZNMPeuzfLCrwDSxXae?usp=drive_link)
+- [View PDF of Slides](https://github.com/magarSushant/SAS_-Hackathon2024_Merit_Driven_Fair_Admissions/blob/main/Ethical%20Admissions%20Model-Presentation%20Slides.pdf)
+- [Download PowerPoint File](https://github.com/magarSushant/SAS_-Hackathon2024_Merit_Driven_Fair_Admissions/blob/main/Ethical%20Admissions%20Model-Presentation%20Slides.pptx)
+
 
 ## Conclusion
 Our model offers a **data-driven approach to reducing bias** in admissions. While challenges like **gender disparity** remain, this project demonstrates the potential of **ethical AI** in building **fair, inclusive systems**.
